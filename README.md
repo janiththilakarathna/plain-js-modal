@@ -1,1 +1,1 @@
-This is inspired from [Victor Eke](https://www.freecodecamp.org/news/author/victoreke/)'s article in FreeCodeCamp. Article is available [here](https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/).
+This is inspired from [Victor Eke](https://www.freecodecamp.org/news/author/victoreke/)'s article in FreeCodeCamp. Article is available [here](https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/). This code can be run independent of other projects, unlike in the original project.
